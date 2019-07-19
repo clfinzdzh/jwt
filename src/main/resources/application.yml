@@ -1,0 +1,4 @@
+jwt:
+  authtication: token
+  expire: 5184000
+  secret: 165a97f5b806428598fc6c47a8662bb5
